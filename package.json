@@ -1,0 +1,23 @@
+{
+  "name": "learn-nw",
+  "version": "1.0.0",
+  "description": "learn nw.js",
+  "main": "hw.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamerKing/learn-nw.git"
+  },
+  "keywords": [
+    "nw",
+    "nw.js"
+  ],
+  "author": "DreamerKing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DreamerKing/learn-nw/issues"
+  },
+  "homepage": "https://github.com/DreamerKing/learn-nw#readme"
+}
